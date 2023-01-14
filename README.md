@@ -5,7 +5,7 @@ Implementation Code of AEs with PyTorch
 
 | Model | Feature Representaion | Reconstruction |
 | :---: | :---: | :---: |
-| [AutoEncoder](1.%20AutoEncoder.ipynb) | ![Feature Representation](images/ae-fig1.svg) | ![Reconstruction](images/ae-fig2.png) |
+| [AutoEncoder](1.%20AutoEncoder.ipynb) | ![Feature Representation](images/ae-fig1.png) | ![Reconstruction](images/ae-fig2.png) |
 
 ## Descriptions
 
